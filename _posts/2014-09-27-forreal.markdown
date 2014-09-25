@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "online test"
+date:   2014-09-27
+categories: tech
+---
+
+Just to make sure that it works.
