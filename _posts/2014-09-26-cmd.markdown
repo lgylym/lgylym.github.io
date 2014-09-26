@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Commands for a database system"
+date:   2014-09-25
+categories: tech
+---
+
+There exist many unix/linux that are essentially operators in DBMS.
+In a simple DBMS, what do we really need?
+Some `join`, some `projection`, `selection`, and `sorting`.
+By combining them together, we can build a very simple DBMS for text data.
