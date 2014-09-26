@@ -10,4 +10,5 @@ In a simple DBMS, what do we really need?
 Some `join`, some `projection`, `selection`, and `sorting`.
 By combining them together, we can build a very simple DBMS for text data.
 Some links to use, [1](http://stackoverflow.com/questions/1394998/parsing-sql-with-python), 
-[2](http://pyparsing.wikispaces.com/).
+[2](http://pyparsing.wikispaces.com/),
+[3](http://pyparsing.wikispaces.com/share/view/5853862).
