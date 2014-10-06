@@ -1,5 +1,18 @@
 {
-  "title": "MapReduce",
+  "title": "Knowledge Graph",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "PageRank",
+      "id": 2,
+      "attr": {
+        "style": {}
+      }
+    },
+    "11": {
+      "title": "MapReduce",
+      "id": 4
+    }
+  }
 }
