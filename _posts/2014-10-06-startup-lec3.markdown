@@ -8,3 +8,4 @@ categories: tech
 [Lec3](http://startupclass.samaltman.com/courses/lec03/)
 
 > Make something people like/use.
+> Just do it.
