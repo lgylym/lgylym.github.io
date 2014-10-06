@@ -5,4 +5,4 @@ date:   2014-10-06
 categories: tech
 ---
 
-Make something people like/use.
+> Make something people like/use.
