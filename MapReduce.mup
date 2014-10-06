@@ -13,6 +13,16 @@
     "11": {
       "title": "MapReduce",
       "id": 4
+    },
+    "-1": {
+      "title": "Similarity Algorithms",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "from text to sets",
+          "id": 6
+        }
+      }
     }
   }
 }
