@@ -12,3 +12,9 @@ By combining them together, we can build a very simple DBMS for text data.
 Some links to use, [1](http://stackoverflow.com/questions/1394998/parsing-sql-with-python), 
 [2](http://pyparsing.wikispaces.com/),
 [3](http://pyparsing.wikispaces.com/share/view/5853862).
+
+Right now I want to answer the simplest question:
+> select * from some_file;
+
+So I have to make up some rules:
+* column can be a number or alias:number, where alias is a,...,z by default or defined using `AS`.
