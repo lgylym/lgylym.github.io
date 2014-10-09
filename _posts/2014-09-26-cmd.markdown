@@ -17,4 +17,4 @@ Right now I want to answer the simplest question:
 > select * from some_file;
 
 So I have to make up some rules:
-* column can be a number or alias:number, where alias is a,...,z by default or defined using `AS`.
+* column can be a number or alias:number, where alias is a-z by default or defined using `AS`.
